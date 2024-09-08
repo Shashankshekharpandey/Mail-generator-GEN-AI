@@ -9,5 +9,7 @@ Atliq is Software Development company can provide a dedicated software developme
 ![img](https://github.com/user-attachments/assets/59cd492f-c460-418a-b0bf-a53f2ab5e1b7)
 
 <h2> Architecture Diagram</h2>
-![architecture](https://github.com/user-attachments/assets/7500f19d-45ea-48fc-8f90-2bbd6f9e2c2b)
+
+![img](https://github.com/user-attachments/assets/ae81d638-e497-4da9-a07f-b2d813343221)
+
 
